@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Small Pets</title>
+
+    </head>
+
+<body>
+    <header>
+        <h1>Small Pets</h1>
+        <h6>Don't Neglect Them!</h6>
+    </header>
+    <nav>
+            <a href="lizards.html">Lizards</a> |
+            <a href="guineapigs.html">Guinea Pigs</a> |
+            <a href="horses.html">Horses</a> |
+            <a href="chihuahuas.html">Chihuahas</a>
+    </nav>
+        <section>
+                <p><img src=tuktuk.jpg></p>
+                <h2>Top 5 reasons to have a small pet:</h2>
+                <p>
+                    <ol>
+                        <li>Small pets are cuter than big pets.</li>
+                        <li>Small pets are much more portable. You can take them to the mall and smuggle them across international borders with relative ease.</li>
+                        <li>You don't have to tell your landlord about small pets. (Sorry, landlords.)</li>
+                        <li>Compared to horses, small pets barely eat anything. Your pet's grocery bill will be much lower than a horse's.</li>
+                        <li>In most contests of skill or agility, small pets win.</li>
+                    </ol></p>
+              </section>
+</body>
+
+</html>

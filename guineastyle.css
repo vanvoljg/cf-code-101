@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(71, 169, 207);
+    color:rgb(238, 224, 34);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+#favoritecolor{
+    color:black;
+}
+
+.myclass{
+    color:rgb(180, 33, 52);
+}
+
+nav ul{
+    list-style-type:none;
+}
+h1{
+    color: rgb(9, 82, 33);
+}
